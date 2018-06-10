@@ -8,3 +8,4 @@ server:
     PGRST_DB_SCHEMA: api
     PGRST_DB_ANON_ROLE: web_anon
     PGRST_JWT_SECRET: <very strong jwt secret password> 
+    PGRST_MAX_ROWS: 5000
